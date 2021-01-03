@@ -9,7 +9,7 @@
     "dirname": "^0.1.0",
     "dotenv": "^8.2.0",
     "eslint-plugin-react": "^7.19.0",
-    "express": "^4.17.1", 
+    "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.8.11",
     "multer": "^1.4.2",
@@ -29,7 +29,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js" 
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
